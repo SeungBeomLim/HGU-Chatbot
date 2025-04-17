@@ -64,7 +64,7 @@ Used a Korean fine-tuned LLaMA model with additional tuning and prompt optimizat
 
 > This repository was created post-project for documentation purposes.  
 > Currently under active development.  
-> **Private Repository** –
+> **Private Repository** – https://github.com/justin-tak0426/Handong-Global-University-sLLM_Chatbot
 
 ---
 
