@@ -16,7 +16,7 @@ By avoiding the use of commercial APIs or frameworks like LangChain or OpenAI, t
 
 ## 🖼 Architecture
 
-> _Full pipeline from document ingestion to generation, including retrieval, NLI, self-check, and final response._
+> _Full pipeline from document ingestion to generation, including retrieval and final response._
 
 ![Chatbot Architecture]
 <img width="820" alt="Image" src="https://github.com/user-attachments/assets/e9ccc096-18f7-47da-813c-6bdb7502b294" />
